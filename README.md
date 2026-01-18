@@ -1,4 +1,4 @@
-# E.L.L.A V2 - Elegant Language & Logic Assistant
+# ELLA WEB V3 - Elegant Language & Logic Assistant
 
 ![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python)
 ![React](https://img.shields.io/badge/React-18.2-61DAFB?logo=react)
@@ -8,7 +8,7 @@
 
 > **"Built by SK"**
 
-**E.L.L.A** (**E**legant **L**anguage & **L**ogic **A**ssistant) is a next-generation multimodal AI desktop agent. It bridges the gap between conversational AI and physical/digital action, allowing you to control your environment, design physical objects, and browse the web using only your voice.
+**ELLA WEB V3** (**E**legant **L**anguage & **L**ogic **A**ssistant) is a next-generation multimodal AI desktop agent. It bridges the gap between conversational AI and physical/digital action, allowing you to control your environment, design physical objects, and browse the web using only your voice.
 
 Powered by **Google's Gemini 2.5 Native Audio**, ELLA supports real-time, low-latency voice conversations with interrupt capabilities, making it feel like talking to a real person.
 
